@@ -26,9 +26,8 @@ a {
   font-weight: 700;
   font-size: 24px;
   line-height: 24px;
-  color: #044656;
+  color: black;
   margin-bottom: 10px;
-  margin-left: 325px;
 }
 .about-name {
   font-style: normal;
@@ -43,7 +42,7 @@ a {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #595959;
+  color: #363535;
   width: 600px;
 }
 
@@ -76,7 +75,7 @@ a {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #595959;
+  color: #383737;
 }
 .progect-link {
   margin-left: 10px;
@@ -93,7 +92,7 @@ a {
   font-style: normal;
   font-size: 14px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #727171;
   margin-bottom: 10px;
 }
 /* work styles */
